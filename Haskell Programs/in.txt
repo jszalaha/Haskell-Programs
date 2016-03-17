@@ -1,0 +1,20 @@
+bird
+dog
+cat
+badger
+person
+Bill Ponderosa
+Mayor of Coolsville
+milk
+airplane
+car
+wand
+figurine
+computer
+speaker
+video game
+phone
+ocarina
+house
+planet
+television
